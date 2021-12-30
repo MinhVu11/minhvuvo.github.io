@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<h2>Hi everyone, I'm Vu<img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="50"></h2> 
+<img align='right' src="https://media.giphy.com/media/yAOjunY81Trjy/giphy.gif" width="370">
 
-You can use the [editor on GitHub](https://github.com/MinhVu11/minhvuvo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MinhVu11/minhvuvo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  <p><em> I'm studying Computer Science at <a href="https://www.uit.edu.vn">HCM University of Information Technology</a>
+  
+  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+  My name: Vo Minh Vu<br>Hometown: Quang Ngai<br>Date of Birth: 11/04/2003
+  
+  ### <img src="https://media.giphy.com/media/s9SNCq4xh0O50eyIjk/giphy.gif" width="30"> About education
+  <ul>
+    <li>2018-2021: Duc Pho 1 High School</li>
+    <li>2021-now: CS at HCM University of Information Technology</li>
+  </ul>
+  
+  ### <img src="https://media.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif" width="30"> Fun fact
+  <ul> 
+    <li> I'm a lazy and sleepy person</li>
+    <li> I'm enjoy swimming, listening to music, playing game...</li>
+  </ul>
+  
+  ### <img src="https://media.giphy.com/media/OlP1bcGF6NM8C7wpX1/giphy.gif" width="45"> Contact me
+  <p>Facebook: <a href="https://www.facebook.com/profile.php?id=100011161397695"> Vo Minh Vu </a><p>
+  <p> Gmail: <a href="mailto:21522808@gm.uit.edu.vn"> 21522808@gm.uit.edu.vn</a>
